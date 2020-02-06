@@ -7,3 +7,4 @@
 | 5 | 118 | 2688.22 | 54.6630 | 123.589 | 13.9816 | MaxTrackTime = 50.0 & MaxTrackTimes = 500.0 |
 | 6 | 118 | 2634.56 | 51.8946 | 114.41  | 15.1768 | CriticalEnergyForVacuum = 4.0 |
 | 7 | 118 | 2494.03 | 51.6535 | 111.33  | 14.165  | UseMagneticField = False & UseParametrisedEMPhysics = False |
+| 8 | 118 | 2531.69 | 52.2398 | 115.813 | 13.8926 | MaxTrackTime = 10000.0 |
